@@ -4,6 +4,8 @@
 
 **FC Mobile Cluster** is a machine learning project that automatically categorizes football players into meaningful types without being explicitly told what those types are. The project uses unsupervised learning techniques (K-Means clustering) to discover natural groupings in player data based on their career stage and market position.
 
+leonad did some edit here 
+
 **Problem Statement:** Can a machine automatically sort football players into meaningful types, without being told what the types are?
 
 ---
